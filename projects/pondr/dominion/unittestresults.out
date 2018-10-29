@@ -1,0 +1,49 @@
+Result for running FUNCTION unit tests:
+unittest1.c:
+Checking number of players is correctly handledCheck duplicate kingdom cards returns errorCheck number of curse cards, victory cards, treasure cardsCheck that for each player the number 5 cards are drawnAll tests passed!
+File 'dominion.c'
+Lines executed:15.07% of 604
+Creating 'dominion.c.gcov'
+
+unittest2.c:
+Checking if isGameOver exits correctlyAll tests passed!
+File 'dominion.c'
+Lines executed:15.23% of 604
+Creating 'dominion.c.gcov'
+
+unittest3.c:
+Check that the player has one less card in handAll tests passed!
+File 'dominion.c'
+Lines executed:16.23% of 604
+Creating 'dominion.c.gcov'
+
+unittest4.c:
+Check that the player has one more card in handAll tests passed!
+File 'dominion.c'
+Lines executed:16.39% of 604
+Creating 'dominion.c.gcov'
+
+cardtest1.c:
+Test adventurerAll tests passed!
+File 'dominion.c'
+Lines executed:16.56% of 604
+Creating 'dominion.c.gcov'
+
+cardtest2.c:
+After playing smithy the number of cards in hand should increase by 3. Also the action card should be discardedAll tests passed!
+File 'dominion.c'
+Lines executed:16.56% of 604
+Creating 'dominion.c.gcov'
+
+cardtest3.c:
+After playing smithy the number of cards in hand should increase by 3. Also the action card should be discardedAll tests passed!
+File 'dominion.c'
+Lines executed:16.56% of 604
+Creating 'dominion.c.gcov'
+
+cardtest4.c:
+After playing village the number of actions should increase by 2, +1cardAll tests passed!
+File 'dominion.c'
+Lines executed:16.56% of 604
+Creating 'dominion.c.gcov'
+
